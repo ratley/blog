@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{395:function(e,t){e.exports={data:{site:{siteMetadata:{title:"bradley inniss, software engineer"}},allMarkdownRemark:{edges:[{node:{excerpt:"I’ll be sharing my code related thoughts and things I learn here.",fields:{slug:"/hi/"},frontmatter:{date:"16 July, 2018",title:"Hi"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-d076c900fd00b72fb677.js.map
